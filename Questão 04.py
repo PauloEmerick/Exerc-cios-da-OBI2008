@@ -1,4 +1,4 @@
-print('QUESTÃO 04 ESTÁ COM PROBLEMA, CONSERTA ANTES ENVIAR')
+print('QUESTÃO 04')
 def auto_estrada(C, P):
     posicao = 0
     paineis = 0
