@@ -63,11 +63,11 @@ QUESTÃO 05
 
 Juninho é um menino muito visionário e inteligente, que quer ficar rico. Aos 12 anos de idade, já está interessado em investimentos de ações na bolsa de valores. Uma ação é como se fosse um pedaço de uma empresa que qualquer pessoa pode comprar. E como cada empresa tem tamanhos e valores diferentes, cada ação também tem diferentes valores, e esses valores mudam o tempo todo. Suponha, por exemplo, que Juninho compre uma ação de uma empresa de petróleo, que custe R$ 100. Suponha que no dia seguinte, essa empresa descubra um enorme poço de petróleo, o que vai dar muitos lucros para ela no futuro. Essa empresa, então, passa a ser mais valorizada, e consequentemente o preço das ações sobem. Suponha que as ações subiram 20% nesse dia. Então Juninho, que tinha uma ação de R$ 100, hoje tem a mesma ação, mas que vale R$ 120. Ou seja, se ele a vender hoje, vai ter um lucro de R$ 20, só por ter comprado e vendido a ação. Uma empresa de refrigerantes criou um novo tipo de investimento especial para iniciantes. Ela ocorre da seguinte maneira:
 
- O investidor compra as ações da empresa na manhã do dia X; 
+O investidor compra as ações da empresa na manhã do dia X; 
 
- O dinheiro fica investido durante exatamente quatro dias seguidos; 
+O dinheiro fica investido durante exatamente quatro dias seguidos; 
 
- Ao final dos quatro dias, são aplicados juros simples ao preço das ações; todas elas são vendidas e o dinheiro é dado de volta ao investidor.
+Ao final dos quatro dias, são aplicados juros simples ao preço das ações; todas elas são vendidas e o dinheiro é dado de volta ao investidor.
 
 Por exemplo, suponha que as variações do preço das ações sejam: 
 
